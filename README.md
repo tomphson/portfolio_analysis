@@ -1,2 +1,2 @@
 # portfolio_analysis
-TBD
+The folder contains files useful for dynamic trading.
